@@ -1,0 +1,34 @@
+ //Tamaño
+  size(500,500);
+  //Color del fondo
+  background(0,0,90);
+  strokeWeight(1);
+  //Circulo
+  ellipse(250,250,500,500);
+  //Creacion de T
+  line(50,110,200,110);
+  line(125,200,125,110);
+  //Creacion de E
+  line(210,110,280,110);
+  line(210,200,210,110);
+  line(210,150,280,150);
+  line(210,200,280,200);
+  //Creacion de C
+  line(310,110,380,110);
+  line(310,200,310,110);
+  line(310,200,380,200);
+  //Creacion de M
+  line(25,350,25,240);
+  line(75,310,25,240);
+  line(75,310,125,240);
+  line(125,350,125,240);
+  //Creacion de I
+  line(170,350,170,240);
+  //Creacion de N
+  line(200,350,200,240);
+  line(200,240,260,350);
+  line(260,350,260,240);
+  //Creacion de A
+  line(300,350,350,240);
+  line(400,350,350,240);
+  line(320,300,380,300);
